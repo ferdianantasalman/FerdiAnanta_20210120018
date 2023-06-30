@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan9/HomePage.dart';
-import 'package:pertemuan9/namedRoute.dart';
-import 'package:pertemuan9/routeGenerator.dart';
+import 'package:pertemuan9/home_page.dart';
+import 'package:pertemuan9/named_route.dart';
+import 'package:pertemuan9/generator_route.dart';
 
 
 void main() {
