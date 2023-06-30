@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pertemuan9/simpleRoute.dart';
+import 'package:pertemuan9/simple_route.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});
